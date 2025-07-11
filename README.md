@@ -26,3 +26,14 @@ Three strategies
 2. `git branch -m main`
 3. `git push -u origin main`
 
+## Task 3. Create new branch to develop code 
+1. Create new branch
+  1. `git branch feature1`
+  2. `git checkout feature1`
+2. Quicker way:
+  1. `git checkout -b 'feature1'`
+3. Standard operation
+  1. `git add`
+  2. `git commit -m "edit message"`
+4. `git checkout main`
+
