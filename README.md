@@ -19,7 +19,7 @@ Three strategies
 5. `git commit -m "init project"`
 6. Open git tab
 7. Change default editor
-  1.`git config --global core.editor "nvim"`
+  1. `git config --global core.editor "nvim"`
 
 ## Task 2. Create branch & Push to remote website
 1. `git remote add origin YOUR_REMOTE_LINK_NAME`
