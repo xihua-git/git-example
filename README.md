@@ -6,7 +6,7 @@
 
 # Git management
 
-Three strategies
+## Three strategies
 - merge
 - rebase
 - stash
