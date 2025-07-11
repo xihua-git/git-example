@@ -1,3 +1,9 @@
+# Git SSH
+1. `ls ~/.ssh`
+2. `ssh-keygen -t rsa -C "your_email@example.com"`
+3. `ssh-add ~/.ssh/id_rsa` 
+4. `cat ~/.ssh/id_rsa.pub`
+
 # Git management
 
 Three strategies
